@@ -1,10 +1,10 @@
 {
     "port": 3000,
 
-    "clientId": "",
-    "clientSecret": "",
+    "clientId": "775538506348101671",
+    "clientSecret": "uxFj-LEuYzAzWjHmXl-3uk2Uf-ROqUuZ",
     "scopes": ["identify", "guilds"],
-    "redirectUri": "",
-    "token":"",
-    "inviteurl":""
+    "redirectUri": "https://officialadminbot.herokuapp.com/",
+    "token":"Nzc1NTM4NTA2MzQ4MTAxNjcx.X6nyhA.THf5F_KmkhjJQJ9_nGJPbQdf3nQ",
+    "inviteurl":"https://discord.com/oauth2/authorize?client_id=775538506348101671&scope=bot&permissions=8"
 }
